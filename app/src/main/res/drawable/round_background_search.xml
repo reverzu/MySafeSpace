@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">-->
+
+<!--</selector>-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <corners android:radius="250dp" />
+<!--    <color android:name="my_purple">#9c27b0</color>-->
+    <solid android:color="#03A9F4" />
+
+
+    <stroke
+        android:color="@android:color/darker_gray" />
+
+</shape>

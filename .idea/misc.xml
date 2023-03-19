@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MAD_Lab/SParivaarSafeParivaar/app/src/main/res/drawable/ic_hamburger.xml" value="0.124" />
+        <entry key="..\:/MAD_Lab/SParivaarSafeParivaar/app/src/main/res/drawable/ic_hamburger2.xml" value="0.124" />
         <entry key="..\:/MAD_Lab/SParivaarSafeParivaar/app/src/main/res/drawable/ic_menu_hamburger.xml" value="0.175" />
         <entry key="..\:/MAD_Lab/SParivaarSafeParivaar/app/src/main/res/drawable/round_background.xml" value="0.175" />
+        <entry key="..\:/MAD_Lab/SParivaarSafeParivaar/app/src/main/res/drawable/round_background_button.xml" value="0.124" />
         <entry key="..\:/MAD_Lab/SParivaarSafeParivaar/app/src/main/res/drawable/round_background_search.xml" value="0.124" />
-        <entry key="..\:/MAD_Lab/SParivaarSafeParivaar/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/MAD_Lab/SParivaarSafeParivaar/app/src/main/res/layout/activity_maps.xml" value="0.264" />
         <entry key="..\:/MAD_Lab/SParivaarSafeParivaar/app/src/main/res/layout/autocomplete_item.xml" value="0.25416666666666665" />
         <entry key="..\:/MAD_Lab/SParivaarSafeParivaar/app/src/main/res/layout/round_background.xml" value="0.24010416666666667" />
       </map>
